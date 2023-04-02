@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Mayonnaise - Individual Pkg",
+      "description": "Individual package(500ml glass bottle) of mayonnaise",
+      "price": 11,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGR8Kzm5JOGJGxtTfq4WDIicu5ouMBSG3eA&usqp=CAU",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Vinegar - Champagne",
+      "description": "Vinnegar champagne made for cooking indegrients",
+      "price": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNisKYKlkv1BJP08c2T7_HBzvsr6bGEiuskXOck9dSiziy5ZugcRP3P2p6iqpy8c8D-4&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Magic Muffin - Mix - Bran And Maple 15l",
+      "description": "1 pcs of MM brand and maple muffin",
+      "price": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6OQTsFHrcRFqtwwNkglafZA3fjJkRiaQceQ&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Wanton Wrap",
+      "description": "Instant wonton wrap",
+      "price": "4",
+      "image": "https://static.toiimg.com/thumb/57625640.cms?imgsize=1271671&width=800&height=800"
+    },
+    {
+      "id": 5,
+      "name": "Cucumber - Pickling Ontario",
+      "description": "1 jar of cucumber pickle",
+      "price": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTadSxquzHWfaQW4gwiubSCp5VukW68hWXnmA&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Mineral Water",
+      "description": "a 1L of water bottle",
+      "price": "1",
+      "image": ""
+    }
+  ]
+}
